@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623894221 source:c:\users\jashliao\desktop\store_stocks_web\cb_createrunbat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
